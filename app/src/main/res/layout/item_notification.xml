@@ -53,7 +53,7 @@
         tools:text="@string/text_notification_body" />
 
     <View
-        android:layout_width="360dp"
+        android:layout_width="380dp"
         android:layout_height="1dp"
         android:layout_marginVertical="16dp"
         android:background="@color/gray"
